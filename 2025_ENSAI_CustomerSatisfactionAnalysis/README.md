@@ -21,7 +21,7 @@ project/
 ├── notebooks/            # Dossier destiné à contenir les notebooks d'analyse
 │   └── Analysis of customer comments.ipynb
 │
-├── src/                  # Dossier pour des scripts de traitement ou d’analyse (actuellement vide)
+├── src/
 │
 ├── outputs/              # Dossier de sortie avec les livrables finaux
 │   └── Presentation_of_results.pptx           # Support de présentation
