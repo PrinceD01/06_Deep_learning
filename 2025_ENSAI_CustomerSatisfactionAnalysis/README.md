@@ -16,15 +16,15 @@ Analyser les réponses des citoyens dans le cadre de la consultation "Comment ag
 project/
 │
 ├── data/                 # Dossier destiné à accueillir les données brutes et/ou nettoyées
+│   └── tourisme_responsable.json
 │
 ├── notebooks/            # Dossier destiné à contenir les notebooks d'analyse
+│   └── Analysis of customer comments.ipynb
 │
-├── src/                  # Dossier pour des scripts de traitement ou d’analyse (actuellement vide)
+├── src/
 │
 ├── outputs/              # Dossier de sortie avec les livrables finaux
-│   ├── Consultation_Tourisme_Notebook.ipynb   # Notebook d'analyse et de traitement
-│   ├── Presentation_of_results.pptx           # Support de présentation
-│   └── Data_files/                             # Données nettoyées ou formatées si nécessaire
+│   └── Presentation_of_results.pptx           # Support de présentation
 ```
 
 # Jeu de données
