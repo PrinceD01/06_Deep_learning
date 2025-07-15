@@ -1,3 +1,4 @@
+```
 ├── README.md
 ├── data/
 │   ├── MNIST_M.zip
@@ -21,3 +22,4 @@
     ├── models/       # Modèles sauvegardés
     ├── figures/      # Visualisations
     └── results/      # Résultats d'évaluation
+```
